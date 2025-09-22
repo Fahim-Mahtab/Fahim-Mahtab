@@ -1,9 +1,4 @@
-Here’s a personalized standout README for your GitHub profile, Fahim-Mahtab!  
-I've included your GitHub profile picture, bio, skills, favorite project, recent repositories, and LinkedIn link.
 
-If you want to add or change anything, just let me know!
-
-````markdown name=README.md
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/104701272?v=4" width="150" alt="Fahim Mahtab's GitHub Profile Picture">
 </p>
