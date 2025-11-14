@@ -32,7 +32,7 @@
 
 ### 📚 Recent Projects
 
-- [Flutter Curd operation using Postman](https://github.com/Fahim-Mahtab/flutter_curd_operation_postman_api)
+- [Flutter Crud operation using Postman](https://github.com/Fahim-Mahtab/flutter_curd_operation_postman_api)
 - [Booking App](https://github.com/Fahim-Mahtab/Booking_App)
 - [Todo App Flutter](https://github.com/Fahim-Mahtab/todoApp_flutter)
 - [Flutter Bmi Calculator](https://github.com/Fahim-Mahtab/flutter_BMI_Calculator)
