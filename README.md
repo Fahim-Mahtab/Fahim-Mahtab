@@ -32,11 +32,12 @@
 
 ### 📚 Recent Projects
 
-- [Ostad UI Design Part 2](https://github.com/Fahim-Mahtab/Ostad_Ui_Design_Part_2)
+- [Flutter Curd operation using Postman](https://github.com/Fahim-Mahtab/flutter_curd_operation_postman_api)
 - [Booking App](https://github.com/Fahim-Mahtab/Booking_App)
 - [Todo App Flutter](https://github.com/Fahim-Mahtab/todoApp_flutter)
+- [Flutter Bmi Calculator](https://github.com/Fahim-Mahtab/flutter_BMI_Calculator)
 - [Flutter Login](https://github.com/Fahim-Mahtab/FlutterLogin)
-- [For Practicing](https://github.com/Fahim-Mahtab/for-Practicing-)
+- [Flutter Ecommerce App](https://github.com/Fahim-Mahtab/WoCommerce)
 
 ---
 
